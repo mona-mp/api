@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  api:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-31T08:34:18.785951183Z"
+    description: A Helm chart for Kubernetes
+    digest: 719dbc0c4d2c77041b06c1a14b945785ce180e8cd09e1a171a43c79af4ce0035
+    name: api
+    type: application
+    urls:
+    - https://mona-mp.github.io/api/api-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-31T08:34:18.784172077Z"
